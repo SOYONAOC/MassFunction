@@ -57,8 +57,10 @@ setup(
         ],
     },
     project_urls={
-        "Bug Reports": "https://github.com/SOYONAOC/massfunc/issues",
-        "Source": "https://github.com/SOYONAOC/massfunc",
-        "Documentation": "https://massfunc.readthedocs.io/",
+
+    "Bug Reports": "https://github.com/SOYONAOC/MassFunction/issues",
+
+    "Source": "https://github.com/SOYONAOC/MassFunction",
+    
     },
 )
